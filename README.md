@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yuyuyuyu0111/yuyuyuyu0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 言語経験
+- Java 2年くらいなんやかんや書いてる
+- Rust 2週間でモチベ消えた そのうちやりたい 生存期間という概念はかなり好き
+- Go 数週間 簡単なHTMLテンプレートを返すWebサーバーが作ったけど、文法は理解してない あんま好きじゃない
+
+### 興味あること
+- サーバーサイド
+- DB
+- ネットワーク
+
+### 好きじゃないこと
+- CSS うまく反映されない理由を探すのが辛い
+- 型のない言語 静的検査が無い言語はダメ コンパイラで上手くできるなら任せたい
+- フロントエンド 経験値低いのもあるけどReactとかがむずい
